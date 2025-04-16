@@ -1,4 +1,4 @@
-# KekikBot
+# csprofesörbot
 
 Telegram'da belirli anahtar kelimelere otomatik olarak yanıt veren basit bir Python botu.
 
